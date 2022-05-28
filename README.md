@@ -14,6 +14,7 @@ pip install pycocotools
 ## Clone Yolor
 ```
 git clone https://github.com/Mubeen-Ahmad/yolor
+cd yolor
 ```
 ## Install Requirments
 
