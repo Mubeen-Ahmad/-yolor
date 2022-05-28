@@ -19,7 +19,7 @@ cd yolor
 ## Install Requirments
 
 ```
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 ## For Gpu 
 Make Sure 
